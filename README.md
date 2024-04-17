@@ -1,6 +1,6 @@
 # PUBG KILLFEED
 PUBG killfeeds with logos of well-known companies and services instead of numbers.
-## Install
+## Install & Update
 Download and run the script from the link below, restart PUBG, and you're done applying it. <br>
 https://github.com/JNDWI/pubg-killfeed/releases/download/1.0/install-update-pubg-killfeed.bat
 
