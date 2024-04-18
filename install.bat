@@ -8,5 +8,5 @@ xcopy /s /e /y "temp\Observer" "%LOCALAPPDATA%\TslGame\Saved\Observer\"
 echo Cleaning up...
 rd /s /q temp
 
-echo  Done. JNDWI's PUBG KILLFEED has been installed. Path:%LOCALAPPDATA%\TslGame\Saved.
+echo  Done!
 pause
