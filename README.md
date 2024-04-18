@@ -3,8 +3,7 @@
 ## Famous Logos in your killfeed
 This repository provides files to customize the killfeed, which is displayed by default in number, into logos of famous companies or services.
 ## Install & Update
-You can install and update simply by downloading and running the [installation script](https://github.com/JNDWI/pubg-killfeed/releases/download/1.0/install-update-pubg-killfeed.bat).  
-
+Installation and updates can be completed simply by downloading and executing `Install.bat` from the [latest release](https://github.com/JNDWI/pubg-killfeed/releases).
 
 This script is a program that simply places the `Observer` folder from the repository directly into the `%LOCALAPPDATA%\TslGame\Saved` directory on your PC.
 
