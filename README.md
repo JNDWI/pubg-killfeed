@@ -13,3 +13,4 @@ This script provides a version of the killfeed where numbers are displayed by de
 
 
 ## Preview
+![Preview](preview/preview01.png)
