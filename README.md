@@ -1,10 +1,16 @@
+[日本語版](./README-ja.md)
 # PUBG KILLFEED
-PUBG killfeeds with logos of well-known companies and services instead of numbers.
+## Famous Logos in your killfeed
+This repository provides files to customize the killfeed, which is displayed by default in number, into logos of famous companies or services.
 ## Install & Update
-Download and run the script from the link below, restart PUBG, and you're done applying it. <br>
-https://github.com/JNDWI/pubg-killfeed/releases/download/1.0/install-update-pubg-killfeed.bat
+You can install and update simply by downloading and running the [installation script](https://github.com/JNDWI/pubg-killfeed/releases/download/1.0/install-update-pubg-killfeed.bat).  
 
-Normally the numbers are displayed in the lower right corner of the image, but if you want a version without numbers, convert the name of `TeamIcon-numberless` directory in `Observer` directory to `TeamIcon`. 
+
+This script is a program that simply places the `Observer` folder from the repository directly into the `%LOCALAPPDATA%\TslGame\Saved` directory on your PC.
+
+
+## Numberless Version
+This script provides a version of the killfeed where numbers are displayed by default at the bottom right corner of the logo. If you don't need numbers, replace it with the numberless version. Rename the `TeamIcon-numberless` folder inside the `Observer` folder to `TeamIcon`.
+
 
 ## Preview
-![image](https://github.com/JNDWI/pubg-killfeed/assets/61770052/fb9ec3c5-d9f2-47a7-b11a-b03ac0147270)
