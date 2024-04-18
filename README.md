@@ -1,7 +1,7 @@
 [日本語版](./README-ja.md)
 # PUBG KILLFEED
-## Famous Logos in your killfeed
-This repository provides files to customize the killfeed, which is displayed by default in number, into logos of famous companies or services.
+## Well-Known Logos in your killfeed
+This repository provides files to customize the killfeed, which is displayed by default in number, into logos of well-known companies or services.
 ## Install & Update
 Installation and updates can be completed simply by downloading and executing `Install.bat` from the [latest release](https://github.com/JNDWI/pubg-killfeed/releases).
 
