@@ -1,7 +1,8 @@
 # PUBG キルフィード
 ## キルフィードに有名なロゴを表示します
 このレポジトリではデフォルトでは数値で表示されるキルフィードを有名企業やサービスのロゴにカスタマイズするファイルを提供します。
-![Preview](preview/preview01.png)
+
+![Preview](preview/preview02.gif)
 ## インストールとアップデート
 インストールとアップデートは、[最新のRelease](https://github.com/JNDWI/pubg-killfeed/releases)から `install.bat` をダウンロードして実行するだけで完了する。
 
@@ -17,3 +18,4 @@ Public Pixel https://www.cdnfonts.com/public-pixel.font
 
 ## プレビュー
 ![Preview](preview/preview01.png)
+![Preview](preview/preview02.gif)

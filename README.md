@@ -3,7 +3,8 @@
 
 ## Well-Known Logos in your killfeed
 This repository provides files to customize the killfeed, which is displayed by default in number, into logos of well-known companies or services.
-![Preview](preview/preview01.png)
+
+![Preview](preview/preview02.gif)
 ## Install & Update
 Installation and updates can be completed simply by downloading and executing `install.bat` from the [latest release](https://github.com/JNDWI/pubg-killfeed/releases).
 
@@ -19,3 +20,4 @@ Public Pixel https://www.cdnfonts.com/public-pixel.font
 
 ## Preview
 ![Preview](preview/preview01.png)
+![Preview](preview/preview02.gif)
