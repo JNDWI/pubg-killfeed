@@ -5,7 +5,7 @@
 This repository provides files to customize the killfeed, which is displayed by default in number, into logos of well-known companies or services.
 ![Preview](preview/preview01.png)
 ## Install & Update
-Installation and updates can be completed simply by downloading and executing `Install.bat` from the [latest release](https://github.com/JNDWI/pubg-killfeed/releases).
+Installation and updates can be completed simply by downloading and executing `install.bat` from the [latest release](https://github.com/JNDWI/pubg-killfeed/releases).
 
 This script is a program that simply places the `Observer` folder from the repository directly into the `%LOCALAPPDATA%\TslGame\Saved` directory on your PC.
 

@@ -3,7 +3,7 @@
 このレポジトリではデフォルトでは数値で表示されるキルフィードを有名企業やサービスのロゴにカスタマイズするファイルを提供します。
 ![Preview](preview/preview01.png)
 ## インストールとアップデート
-インストールとアップデートは、[最新のRelease](https://github.com/JNDWI/pubg-killfeed/releases)から `Install.bat` をダウンロードして実行するだけで完了する。
+インストールとアップデートは、[最新のRelease](https://github.com/JNDWI/pubg-killfeed/releases)から `install.bat` をダウンロードして実行するだけで完了する。
 
 
 このスクリプトはレポジトリ内の `Observer` フォルダをあなたのPCの  `%LOCALAPPDATA%\TslGame\Saved` ディレクトリ直下に配置するだけのプログラムです。
