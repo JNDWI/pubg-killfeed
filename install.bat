@@ -16,4 +16,7 @@ del /q temp.zip
 rd /s /q temp
 
 echo  Done!
+
+echo Opening "%LOCALAPPDATA%\TslGame\Saved\Observer\" in Explorer...
+start "" "%LOCALAPPDATA%\TslGame\Saved\Observer\"
 pause
