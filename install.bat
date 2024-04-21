@@ -15,8 +15,16 @@ echo Cleaning up...
 del /q temp.zip
 rd /s /q temp
 
-echo  Done!
+set /p answer= Switch to the numberless version (yes/no): 
+
+if /i "%answer%"=="yes" (
+    ren "%LOCALAPPDATA%\TslGame\Saved\Observer\TeamIcon" "TeamIcon-number" 2>nul
+    ren "%LOCALAPPDATA%\TslGame\Saved\Observer\TeamIcon-numberless" "TeamIcon" 2>nul
+)
+
+echo Done!
 
 echo Opening "%LOCALAPPDATA%\TslGame\Saved\Observer\" in Explorer...
 start "" "%LOCALAPPDATA%\TslGame\Saved\Observer\"
+
 pause
