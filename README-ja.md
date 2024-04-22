@@ -11,7 +11,10 @@
 
 
 ## ナンバーレスバージョン
-このスクリプトではデフォルトでロゴの右下に数字が記載されているバージョンのキルフィードを提供します。数字が必要ない場合はナンバーレスバージョンを用意しているのでそちらに置き換えてください。 `Observer` フォルダ内の `TeamIcon-numberless` フォルダの名前を `TeamIcon` に書き換えてください。
+~~このスクリプトではデフォルトでロゴの右下に数字が記載されているバージョンのキルフィードを提供します。数字が必要ない場合はナンバーレスバージョンを用意しているのでそちらに置き換えてください。 `Observer` フォルダ内の `TeamIcon-numberless` フォルダの名前を `TeamIcon` に書き換えてください。~~
+
+`install.bat` にnumberleesバージョンを選択するオプションを追加しました。
+![installbat](preview/numberlessoption.png)
 
 ## フォント
 Public Pixel https://www.cdnfonts.com/public-pixel.font
